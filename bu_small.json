@@ -1,8 +1,12 @@
 {
-    "type": "small",
+    "type": "large",
     "finished": true,
     "last_carg": 11,
     "last_party": null,
+    "open_steps": [
+        "candidate",
+        "voting"
+    ],
     "header": {
         "QRBU": [
             1,
@@ -31,7 +35,10 @@
             "IDUE": 2031032,
             "IDCA": 387626604953598569436326,
             "HIQT": 1,
-            "HICA": "1",
+            "HICA": [
+                "1",
+                "387626604953598569436326"
+            ],
             "VERS": "9.20.0.0"
         },
         "details": {
@@ -97,6 +104,17 @@
                         "TOTC": 2
                     },
                     "party": [
+                        {
+                            "PART": null,
+                            "LEGP": null,
+                            "TOTP": null,
+                            "candidates": {
+                                "92": {
+                                    "code": "92",
+                                    "votes": 1
+                                }
+                            }
+                        },
                         {
                             "PART": null,
                             "LEGP": null,
