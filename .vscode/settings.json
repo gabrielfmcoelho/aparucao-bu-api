@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:apuracao-bu-api}/data/db.sqlite3",
+            "name": "tool"
+        }
+    ]
+}

@@ -2,7 +2,7 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from .src.routes import db_router, admin_router, application_router
+from .src.routes import application_router
 from .src.settings import app_settings as settings
 from .src.logger import LoggerHandler, get_logger
 
@@ -34,8 +34,6 @@ app.add_middleware(
     allow_headers=settings.allowed_headers,
 )
 
-app.include_router(db_router)
-app.include_router(admin_router)
 app.include_router(application_router)
 
 @app.get('/', include_in_schema=False)

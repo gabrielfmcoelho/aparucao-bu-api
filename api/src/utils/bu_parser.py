@@ -1,5 +1,6 @@
 from ..schemas import *
 import json
+from ..database import DatabaseInterface, get_database_interface
 
 class BulletinUrnaParser:
     def __init__(self, phone_number: str):
@@ -27,9 +28,22 @@ class BulletinUrnaParser:
 
     def _get_last_bu(self):
         # Lazy load from mock DB or real DB
-        mock_db = {1: 'bu_big_1.json', 2: 'bu_big_2.json', 3: 'bu_big_3.json'}
-        with open(mock_db[self.phone_number]) as f:
-            bulletin = BoletimUrna(**json.load(f))
+        with get_database_interface().get_session() as session:
+            query = """
+                SELECT type, finished, last_carg, last_party, open_steps, header, content FROM boletim_urna WHERE evaluator_phone = :evaluator_phone
+            """
+            result = session.execute(query, {'evaluator_phone': self.phone_number})
+            if not result:
+                raise Exception('No bulletin found')
+            return BoletimUrna(
+                type=result[0],
+                finished=result[1],
+                last_carg=result[2],
+                last_party=result[3],
+                open_steps=result[4],
+                header=Header(**result[5]),
+                content=Content(**result[6])
+            )
         return bulletin
 
     def _update_status(self, step:list = None, next_step:list = None):
