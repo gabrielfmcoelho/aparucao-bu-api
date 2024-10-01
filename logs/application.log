@@ -1,0 +1,787 @@
+2024-09-27 10:54:29 | INFO | Logger initialized successfully | logger | app.src.logger | 
+2024-09-27 10:54:29 | INFO | Database engine established successfully. | database | app.src.database | 
+2024-09-27 10:54:29 | INFO | Database connection tested successfully. | database | app.src.database | 
+2024-09-27 10:54:50 | INFO | Logger initialized successfully | logger | app.src.logger | 
+2024-09-27 10:54:50 | INFO | Database engine established successfully. | database | app.src.database | 
+2024-09-27 10:54:50 | INFO | Database connection tested successfully. | database | app.src.database | 
+2024-09-27 10:56:27 | INFO | Logger initialized successfully | logger | app.src.logger | 
+2024-09-27 10:56:27 | INFO | Database engine established successfully. | database | app.src.database | 
+2024-09-27 10:56:27 | INFO | Database connection tested successfully. | database | app.src.database | 
+2024-09-27 10:57:21 | INFO | Logger initialized successfully | logger | app.src.logger | 
+2024-09-27 10:57:21 | INFO | Database engine established successfully. | database | app.src.database | 
+2024-09-27 10:57:21 | INFO | Database connection tested successfully. | database | app.src.database | 
+2024-09-27 10:58:10 | INFO | Logger initialized successfully | logger | app.src.logger | 
+2024-09-27 10:58:10 | INFO | Database engine established successfully. | database | app.src.database | 
+2024-09-27 10:58:10 | INFO | Database connection tested successfully. | database | app.src.database | 
+2024-09-27 10:58:19 | INFO | Logger initialized successfully | logger | app.src.logger | 
+2024-09-27 10:58:19 | INFO | Database engine established successfully. | database | app.src.database | 
+2024-09-27 10:58:19 | INFO | Database connection tested successfully. | database | app.src.database | 
+2024-09-27 11:01:18 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:01:18 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:01:18 | INFO | >>> Initializing Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:01:31 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:01:31 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:01:31 | INFO | >>> Initializing Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:18:34 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:18:34 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:22:15 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:22:15 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:22:15 | INFO | >>> Initializing Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:22:22 | INFO | >>> Shutingdown Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:22:22 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:22:23 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:22:23 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:22:23 | INFO | >>> Initializing Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:23:41 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:23:41 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:26:09 | INFO | >>> Shutingdown Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:26:09 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:26:09 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:26:09 | INFO | >>> Initializing Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:27:39 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:27:39 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:27:39 | INFO | >>> Initializing Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:28:29 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:28:29 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:28:29 | INFO | >>> Initializing Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:29:02 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:29:02 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:29:02 | INFO | >>> Initializing Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:29:42 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:29:42 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:29:42 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:29:42 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:29:42 | INFO | >>> Initializing Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:29:44 | INFO | >>> Shutingdown Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:29:44 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:29:44 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:29:44 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:29:44 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:29:44 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:29:44 | INFO | >>> Initializing Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:30:13 | ERROR | Bulletin QR code saving failed | application | apuracao-bu-api.api.src.handlers | 
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/threading.py", line 1030, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x7e7f220a67a0>
+    └ <WorkerThread(AnyIO worker thread, started 139084410390080)>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    self.run()
+    │    └ <function WorkerThread.run at 0x7e7f1cf92f20>
+    └ <WorkerThread(AnyIO worker thread, started 139084410390080)>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 859, in run
+    result = context.run(func, *args)
+             │       │   │      └ ()
+             │       │   └ functools.partial(<function create_bulletin_qrcode at 0x7e7f1cf2bba0>, db_connector=<apuracao-bu-api.api.src.database.Databas...
+             │       └ <method 'run' of '_contextvars.Context' objects>
+             └ <_contextvars.Context object at 0x7e7f1cf9de40>
+
+  File "[32m/home/gabrielfmcoelho/projetos/bu/apuracao-bu-api/api/src/[0m[32m[1mroutes.py[0m", line [33m51[0m, in [35mcreate_bulletin_qrcode[0m
+    [1msave_bulletin_qr_code[0m[1m([0m[1mbulletin[0m[1m,[0m [1msection[0m[1m)[0m
+    [36m│                     │         └ [0m[36m[1m'0'[0m
+    [36m│                     └ [0m[36m[1mBulletinQrCode(content='QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S ...[0m
+    [36m└ [0m[36m[1m<function save_bulletin_qr_code at 0x7e7f1d919080>[0m
+
+> File "[32m/home/gabrielfmcoelho/projetos/bu/apuracao-bu-api/api/src/[0m[32m[1mhandlers.py[0m", line [33m15[0m, in [35msave_bulletin_qr_code[0m
+    [1mbulletin[0m [35m[1m=[0m [1mBulletin[0m[1m([0m[1mcontent[0m[35m[1m=[0m[1mbulletin[0m[35m[1m.[0m[1mcontent[0m[1m,[0m [1msection[0m[35m[1m=[0m[1msection[0m[1m)[0m
+    [36m           │                │        │                └ [0m[36m[1m'0'[0m
+    [36m           │                │        └ [0m[36m[1m'QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S UNFE:AC MUNI:1392 ZONA:...[0m
+    [36m           │                └ [0m[36m[1mBulletinQrCode(content='QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S ...[0m
+    [36m           └ [0m[36m[1m<class 'apuracao-bu-api.api.src.models.Bulletin'>[0m
+
+  File "<string>", line 4, in __init__
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/state.py", line 571, in _initialize_instance
+    with util.safe_reraise():
+         │    └ <class 'sqlalchemy.util.langhelpers.safe_reraise'>
+         └ <module 'sqlalchemy.util' from '/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/util/__...
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+          │         │              └ <traceback object at 0x7e7f1c5205c0>
+          │         └ <method 'with_traceback' of 'BaseException' objects>
+          └ AttributeError("'str' object has no attribute '_sa_instance_state'")
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/state.py", line 569, in _initialize_instance
+    manager.original_init(*mixed[1:], **kwargs)
+    │       │              │            └ {'content': 'QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S UNFE:AC MUN...
+    │       │              └ (<sqlalchemy.orm.state.InstanceState object at 0x7e7f1d95f110>, <apuracao-bu-api.api.src.models.Bulletin object at 0x7e7f1d99...
+    │       └ <function _declarative_constructor at 0x7e7f1ed70ea0>
+    └ <ClassManager of <class 'apuracao-bu-api.api.src.models.Bulletin'> at 7e7f1cf35c20>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/decl_base.py", line 2170, in _declarative_constructor
+    setattr(self, k, kwargs[k])
+            │     │  │      └ 'section'
+            │     │  └ {'content': 'QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S UNFE:AC MUN...
+            │     └ 'section'
+            └ <apuracao-bu-api.api.src.models.Bulletin object at 0x7e7f1d991580>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/attributes.py", line 537, in __set__
+    self.impl.set(
+    │    └ <member 'impl' of 'QueryableAttribute' objects>
+    └ <sqlalchemy.orm.attributes.InstrumentedAttribute object at 0x7e7f1cf2b2e0>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/attributes.py", line 1467, in set
+    value = self.fire_replace_event(state, dict_, value, old, initiator)
+            │    │                  │      │      │      │    └ None
+            │    │                  │      │      │      └ <LoaderCallableStatus.NO_VALUE: 4>
+            │    │                  │      │      └ '0'
+            │    │                  │      └ {'_sa_instance_state': <sqlalchemy.orm.state.InstanceState object at 0x7e7f1d95f110>, 'content': 'QRBU:1:1 VRQR:1.5 VRCH:2018...
+            │    │                  └ <sqlalchemy.orm.state.InstanceState object at 0x7e7f1d95f110>
+            │    └ <function ScalarObjectAttributeImpl.fire_replace_event at 0x7e7f1ef47060>
+            └ <sqlalchemy.orm.attributes.ScalarObjectAttributeImpl object at 0x7e7f1c515300>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/attributes.py", line 1506, in fire_replace_event
+    value = fn(
+            └ <function backref_listeners.<locals>.emit_backref_from_scalar_set_event at 0x7e7f1c515bc0>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/attributes.py", line 2161, in emit_backref_from_scalar_set_event
+    instance_state(child),
+    │              └ '0'
+    └ operator.attrgetter('_sa_instance_state')
+
+[31m[1mAttributeError[0m:[1m 'str' object has no attribute '_sa_instance_state'[0m
+2024-09-27 11:30:13 | ERROR | Bulletin QR code creation failed | application | apuracao-bu-api.api.src.routes | 
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/threading.py", line 1030, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x7e7f220a67a0>
+    └ <WorkerThread(AnyIO worker thread, started 139084410390080)>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    self.run()
+    │    └ <function WorkerThread.run at 0x7e7f1cf92f20>
+    └ <WorkerThread(AnyIO worker thread, started 139084410390080)>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 859, in run
+    result = context.run(func, *args)
+             │       │   │      └ ()
+             │       │   └ functools.partial(<function create_bulletin_qrcode at 0x7e7f1cf2bba0>, db_connector=<apuracao-bu-api.api.src.database.Databas...
+             │       └ <method 'run' of '_contextvars.Context' objects>
+             └ <_contextvars.Context object at 0x7e7f1cf9de40>
+
+> File "[32m/home/gabrielfmcoelho/projetos/bu/apuracao-bu-api/api/src/[0m[32m[1mroutes.py[0m", line [33m51[0m, in [35mcreate_bulletin_qrcode[0m
+    [1msave_bulletin_qr_code[0m[1m([0m[1mbulletin[0m[1m,[0m [1msection[0m[1m)[0m
+    [36m│                     │         └ [0m[36m[1m'0'[0m
+    [36m│                     └ [0m[36m[1mBulletinQrCode(content='QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S ...[0m
+    [36m└ [0m[36m[1m<function save_bulletin_qr_code at 0x7e7f1d919080>[0m
+
+  File "[32m/home/gabrielfmcoelho/projetos/bu/apuracao-bu-api/api/src/[0m[32m[1mhandlers.py[0m", line [33m21[0m, in [35msave_bulletin_qr_code[0m
+    [35m[1mraise[0m [1me[0m
+
+  File "[32m/home/gabrielfmcoelho/projetos/bu/apuracao-bu-api/api/src/[0m[32m[1mhandlers.py[0m", line [33m15[0m, in [35msave_bulletin_qr_code[0m
+    [1mbulletin[0m [35m[1m=[0m [1mBulletin[0m[1m([0m[1mcontent[0m[35m[1m=[0m[1mbulletin[0m[35m[1m.[0m[1mcontent[0m[1m,[0m [1msection[0m[35m[1m=[0m[1msection[0m[1m)[0m
+    [36m           │                │        │                └ [0m[36m[1m'0'[0m
+    [36m           │                │        └ [0m[36m[1m'QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S UNFE:AC MUNI:1392 ZONA:...[0m
+    [36m           │                └ [0m[36m[1mBulletinQrCode(content='QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S ...[0m
+    [36m           └ [0m[36m[1m<class 'apuracao-bu-api.api.src.models.Bulletin'>[0m
+
+  File "<string>", line 4, in __init__
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/state.py", line 571, in _initialize_instance
+    with util.safe_reraise():
+         │    └ <class 'sqlalchemy.util.langhelpers.safe_reraise'>
+         └ <module 'sqlalchemy.util' from '/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/util/__...
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+          │         │              └ <traceback object at 0x7e7f1c5205c0>
+          │         └ <method 'with_traceback' of 'BaseException' objects>
+          └ AttributeError("'str' object has no attribute '_sa_instance_state'")
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/state.py", line 569, in _initialize_instance
+    manager.original_init(*mixed[1:], **kwargs)
+    │       │              │            └ {'content': 'QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S UNFE:AC MUN...
+    │       │              └ (<sqlalchemy.orm.state.InstanceState object at 0x7e7f1d95f110>, <apuracao-bu-api.api.src.models.Bulletin object at 0x7e7f1d99...
+    │       └ <function _declarative_constructor at 0x7e7f1ed70ea0>
+    └ <ClassManager of <class 'apuracao-bu-api.api.src.models.Bulletin'> at 7e7f1cf35c20>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/decl_base.py", line 2170, in _declarative_constructor
+    setattr(self, k, kwargs[k])
+            │     │  │      └ 'section'
+            │     │  └ {'content': 'QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S UNFE:AC MUN...
+            │     └ 'section'
+            └ <apuracao-bu-api.api.src.models.Bulletin object at 0x7e7f1d991580>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/attributes.py", line 537, in __set__
+    self.impl.set(
+    │    └ <member 'impl' of 'QueryableAttribute' objects>
+    └ <sqlalchemy.orm.attributes.InstrumentedAttribute object at 0x7e7f1cf2b2e0>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/attributes.py", line 1467, in set
+    value = self.fire_replace_event(state, dict_, value, old, initiator)
+            │    │                  │      │      │      │    └ None
+            │    │                  │      │      │      └ <LoaderCallableStatus.NO_VALUE: 4>
+            │    │                  │      │      └ '0'
+            │    │                  │      └ {'_sa_instance_state': <sqlalchemy.orm.state.InstanceState object at 0x7e7f1d95f110>, 'content': 'QRBU:1:1 VRQR:1.5 VRCH:2018...
+            │    │                  └ <sqlalchemy.orm.state.InstanceState object at 0x7e7f1d95f110>
+            │    └ <function ScalarObjectAttributeImpl.fire_replace_event at 0x7e7f1ef47060>
+            └ <sqlalchemy.orm.attributes.ScalarObjectAttributeImpl object at 0x7e7f1c515300>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/attributes.py", line 1506, in fire_replace_event
+    value = fn(
+            └ <function backref_listeners.<locals>.emit_backref_from_scalar_set_event at 0x7e7f1c515bc0>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/attributes.py", line 2161, in emit_backref_from_scalar_set_event
+    instance_state(child),
+    │              └ '0'
+    └ operator.attrgetter('_sa_instance_state')
+
+[31m[1mAttributeError[0m:[1m 'str' object has no attribute '_sa_instance_state'[0m
+2024-09-27 11:31:08 | INFO | >>> Shutingdown Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:31:08 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:31:26 | INFO | Logger initialized successfully | logger | api.src.logger | 
+2024-09-27 11:31:26 | INFO | Database engine established successfully. | database | api.src.database | 
+2024-09-27 11:31:26 | INFO | Database connection tested successfully. | database | api.src.database | 
+2024-09-27 11:31:33 | INFO | Logger initialized successfully | logger | api.src.logger | 
+2024-09-27 11:31:33 | INFO | Database engine established successfully. | database | api.src.database | 
+2024-09-27 11:31:33 | INFO | Database connection tested successfully. | database | api.src.database | 
+2024-09-27 11:32:57 | INFO | Logger initialized successfully | logger | api.src.logger | 
+2024-09-27 11:32:57 | INFO | Database engine established successfully. | database | api.src.database | 
+2024-09-27 11:32:57 | INFO | Database connection tested successfully. | database | api.src.database | 
+2024-09-27 11:32:59 | INFO | Logger initialized successfully | logger | api.src.logger | 
+2024-09-27 11:32:59 | INFO | Database engine established successfully. | database | api.src.database | 
+2024-09-27 11:32:59 | INFO | Database connection tested successfully. | database | api.src.database | 
+2024-09-27 11:33:35 | INFO | Logger initialized successfully | logger | api.src.logger | 
+2024-09-27 11:33:35 | INFO | Database engine established successfully. | database | api.src.database | 
+2024-09-27 11:33:35 | INFO | Database connection tested successfully. | database | api.src.database | 
+2024-09-27 11:33:37 | INFO | Logger initialized successfully | logger | api.src.logger | 
+2024-09-27 11:33:37 | INFO | Database engine established successfully. | database | api.src.database | 
+2024-09-27 11:33:37 | INFO | Database connection tested successfully. | database | api.src.database | 
+2024-09-27 11:35:10 | INFO | Logger initialized successfully | logger | api.src.logger | 
+2024-09-27 11:35:10 | INFO | Database engine established successfully. | database | api.src.database | 
+2024-09-27 11:35:10 | INFO | Database connection tested successfully. | database | api.src.database | 
+2024-09-27 11:35:12 | INFO | Logger initialized successfully | logger | api.src.logger | 
+2024-09-27 11:35:12 | INFO | Database engine established successfully. | database | api.src.database | 
+2024-09-27 11:35:12 | INFO | Database connection tested successfully. | database | api.src.database | 
+2024-09-27 11:35:58 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:35:58 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:35:58 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:35:59 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:35:59 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:35:59 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:35:59 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:35:59 | INFO | >>> Initializing Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:36:18 | ERROR | Bulletin QR code saving failed | application | apuracao-bu-api.api.src.handlers | 
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 2423, in _determine_joins
+    self.primaryjoin = join_condition(
+    │                  └ <function join_condition at 0x7e14e2012840>
+    └ <sqlalchemy.orm.relationships.JoinCondition object at 0x7e14e035b470>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/sql/util.py", line 123, in join_condition
+    return Join._join_condition(
+           │    └ <classmethod(<function Join._join_condition at 0x7e14e1def100>)>
+           └ <class 'sqlalchemy.sql.selectable.Join'>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/sql/selectable.py", line 1354, in _join_condition
+    raise exc.NoForeignKeysError(
+          │   └ <class 'sqlalchemy.exc.NoForeignKeysError'>
+          └ <module 'sqlalchemy.exc' from '/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/exc.py'>
+
+[31m[1msqlalchemy.exc.NoForeignKeysError[0m:[1m Can't find any foreign key relationships between 'sections' and 'bulletins'.[0m
+
+
+[1mThe above exception was the direct cause of the following exception:[0m
+
+
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/threading.py", line 1030, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x7e14e4baa7a0>
+    └ <WorkerThread(AnyIO worker thread, started 138628114155072)>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    self.run()
+    │    └ <function WorkerThread.run at 0x7e14e0332fc0>
+    └ <WorkerThread(AnyIO worker thread, started 138628114155072)>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 859, in run
+    result = context.run(func, *args)
+             │       │   │      └ ()
+             │       │   └ functools.partial(<function create_bulletin_qrcode at 0x7e14e0436fc0>, db_connector=<apuracao-bu-api.api.src.database.Databas...
+             │       └ <method 'run' of '_contextvars.Context' objects>
+             └ <_contextvars.Context object at 0x7e14e02f3040>
+
+  File "[32m/home/gabrielfmcoelho/projetos/bu/apuracao-bu-api/api/src/[0m[32m[1mroutes.py[0m", line [33m51[0m, in [35mcreate_bulletin_qrcode[0m
+    [1msave_bulletin_qr_code[0m[1m([0m[1mbulletin[0m[1m,[0m [1msection[0m[1m)[0m
+    [36m│                     │         └ [0m[36m[1m'0'[0m
+    [36m│                     └ [0m[36m[1mBulletinQrCode(content='QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S ...[0m
+    [36m└ [0m[36m[1m<function save_bulletin_qr_code at 0x7e14e0435080>[0m
+
+> File "[32m/home/gabrielfmcoelho/projetos/bu/apuracao-bu-api/api/src/[0m[32m[1mhandlers.py[0m", line [33m16[0m, in [35msave_bulletin_qr_code[0m
+    [1mbulletin[0m [35m[1m=[0m [1mBulletin[0m[1m([0m[1mcontent[0m[35m[1m=[0m[1mbulletin[0m[35m[1m.[0m[1mcontent[0m[1m,[0m [1msection[0m[35m[1m=[0m[1msection[0m[1m,[0m [1mcreated_at[0m[35m[1m=[0m[1mdt[0m[35m[1m.[0m[1mnow[0m[1m([0m[1m)[0m[1m,[0m [1mupdated_at[0m[35m[1m=[0m[1mdt[0m[35m[1m.[0m[1mnow[0m[1m([0m[1m)[0m[1m)[0m
+    [36m           │                │        │                │                   │  │                 │  └ [0m[36m[1m<method 'now' of 'datetime.datetime' objects>[0m
+    [36m           │                │        │                │                   │  │                 └ [0m[36m[1m<class 'datetime.datetime'>[0m
+    [36m           │                │        │                │                   │  └ [0m[36m[1m<method 'now' of 'datetime.datetime' objects>[0m
+    [36m           │                │        │                │                   └ [0m[36m[1m<class 'datetime.datetime'>[0m
+    [36m           │                │        │                └ [0m[36m[1m'0'[0m
+    [36m           │                │        └ [0m[36m[1m'QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S UNFE:AC MUNI:1392 ZONA:...[0m
+    [36m           │                └ [0m[36m[1mBulletinQrCode(content='QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S ...[0m
+    [36m           └ [0m[36m[1m<class 'apuracao-bu-api.api.src.models.Bulletin'>[0m
+
+  File "<string>", line 4, in __init__
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/state.py", line 566, in _initialize_instance
+    manager.dispatch.init(self, args, kwargs)
+    │       │        │    │     │     └ {'content': 'QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S UNFE:AC MUN...
+    │       │        │    │     └ ()
+    │       │        │    └ <sqlalchemy.orm.state.InstanceState object at 0x7e14e02e0e90>
+    │       │        └ <member 'init' of 'InstanceEventsDispatch' objects>
+    │       └ <sqlalchemy.event.base.InstanceEventsDispatch object at 0x7e14e02c6990>
+    └ <ClassManager of <class 'apuracao-bu-api.api.src.models.Bulletin'> at 7e14e02d59f0>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/event/attr.py", line 497, in __call__
+    fn(*args, **kw)
+    │   │       └ {}
+    │   └ (<sqlalchemy.orm.state.InstanceState object at 0x7e14e02e0e90>, (), {'content': 'QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA OR...
+    └ <function _event_on_init at 0x7e14e1982660>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 4396, in _event_on_init
+    instrumenting_mapper._check_configure()
+    │                    └ <function Mapper._check_configure at 0x7e14e197a5c0>
+    └ <Mapper at 0x7e14e02aac90; Bulletin>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 2388, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+    │                      │    └ <sqlalchemy.orm.decl_api.registry object at 0x7e14e0417ce0>
+    │                      └ <Mapper at 0x7e14e02aac90; Bulletin>
+    └ <function _configure_registries at 0x7e14e19822a0>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 4204, in _configure_registries
+    _do_configure_registries(registries, cascade)
+    │                        │           └ True
+    │                        └ set()
+    └ <function _do_configure_registries at 0x7e14e19823e0>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 4245, in _do_configure_registries
+    mapper._post_configure_properties()
+    │      └ <function Mapper._post_configure_properties at 0x7e14e197a480>
+    └ <Mapper at 0x7e14e02a9ac0; Section>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 2405, in _post_configure_properties
+    prop.init()
+    │    └ <function MapperProperty.init at 0x7e14e1c520c0>
+    └ <_RelationshipDeclared at 0x7e14e02c4190; bulletins>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/interfaces.py", line 584, in init
+    self.do_init()
+    │    └ <function RelationshipProperty.do_init at 0x7e14e1974d60>
+    └ <_RelationshipDeclared at 0x7e14e02c4190; bulletins>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 1644, in do_init
+    self._setup_join_conditions()
+    │    └ <function RelationshipProperty._setup_join_conditions at 0x7e14e1974fe0>
+    └ <_RelationshipDeclared at 0x7e14e02c4190; bulletins>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 1884, in _setup_join_conditions
+    self._join_condition = jc = JoinCondition(
+    │                           └ <class 'sqlalchemy.orm.relationships.JoinCondition'>
+    └ <_RelationshipDeclared at 0x7e14e02c4190; bulletins>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 2310, in __init__
+    self._determine_joins()
+    │    └ <function JoinCondition._determine_joins at 0x7e14e1976020>
+    └ <sqlalchemy.orm.relationships.JoinCondition object at 0x7e14e035b470>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 2444, in _determine_joins
+    raise sa_exc.NoForeignKeysError(
+          │      └ <class 'sqlalchemy.exc.NoForeignKeysError'>
+          └ <module 'sqlalchemy.exc' from '/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/exc.py'>
+
+[31m[1msqlalchemy.exc.NoForeignKeysError[0m:[1m Could not determine join condition between parent/child tables on relationship Section.bulletins - there are no foreign keys linking these tables.  Ensure that referencing columns are associated with a ForeignKey or ForeignKeyConstraint, or specify a 'primaryjoin' expression.[0m
+2024-09-27 11:36:18 | ERROR | Bulletin QR code creation failed | application | apuracao-bu-api.api.src.routes | 
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 2423, in _determine_joins
+    self.primaryjoin = join_condition(
+    │                  └ <function join_condition at 0x7e14e2012840>
+    └ <sqlalchemy.orm.relationships.JoinCondition object at 0x7e14e035b470>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/sql/util.py", line 123, in join_condition
+    return Join._join_condition(
+           │    └ <classmethod(<function Join._join_condition at 0x7e14e1def100>)>
+           └ <class 'sqlalchemy.sql.selectable.Join'>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/sql/selectable.py", line 1354, in _join_condition
+    raise exc.NoForeignKeysError(
+          │   └ <class 'sqlalchemy.exc.NoForeignKeysError'>
+          └ <module 'sqlalchemy.exc' from '/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/exc.py'>
+
+[31m[1msqlalchemy.exc.NoForeignKeysError[0m:[1m Can't find any foreign key relationships between 'sections' and 'bulletins'.[0m
+
+
+[1mThe above exception was the direct cause of the following exception:[0m
+
+
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/threading.py", line 1030, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x7e14e4baa7a0>
+    └ <WorkerThread(AnyIO worker thread, started 138628114155072)>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    self.run()
+    │    └ <function WorkerThread.run at 0x7e14e0332fc0>
+    └ <WorkerThread(AnyIO worker thread, started 138628114155072)>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 859, in run
+    result = context.run(func, *args)
+             │       │   │      └ ()
+             │       │   └ functools.partial(<function create_bulletin_qrcode at 0x7e14e0436fc0>, db_connector=<apuracao-bu-api.api.src.database.Databas...
+             │       └ <method 'run' of '_contextvars.Context' objects>
+             └ <_contextvars.Context object at 0x7e14e02f3040>
+
+> File "[32m/home/gabrielfmcoelho/projetos/bu/apuracao-bu-api/api/src/[0m[32m[1mroutes.py[0m", line [33m51[0m, in [35mcreate_bulletin_qrcode[0m
+    [1msave_bulletin_qr_code[0m[1m([0m[1mbulletin[0m[1m,[0m [1msection[0m[1m)[0m
+    [36m│                     │         └ [0m[36m[1m'0'[0m
+    [36m│                     └ [0m[36m[1mBulletinQrCode(content='QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S ...[0m
+    [36m└ [0m[36m[1m<function save_bulletin_qr_code at 0x7e14e0435080>[0m
+
+  File "[32m/home/gabrielfmcoelho/projetos/bu/apuracao-bu-api/api/src/[0m[32m[1mhandlers.py[0m", line [33m22[0m, in [35msave_bulletin_qr_code[0m
+    [35m[1mraise[0m [1me[0m
+
+  File "[32m/home/gabrielfmcoelho/projetos/bu/apuracao-bu-api/api/src/[0m[32m[1mhandlers.py[0m", line [33m16[0m, in [35msave_bulletin_qr_code[0m
+    [1mbulletin[0m [35m[1m=[0m [1mBulletin[0m[1m([0m[1mcontent[0m[35m[1m=[0m[1mbulletin[0m[35m[1m.[0m[1mcontent[0m[1m,[0m [1msection[0m[35m[1m=[0m[1msection[0m[1m,[0m [1mcreated_at[0m[35m[1m=[0m[1mdt[0m[35m[1m.[0m[1mnow[0m[1m([0m[1m)[0m[1m,[0m [1mupdated_at[0m[35m[1m=[0m[1mdt[0m[35m[1m.[0m[1mnow[0m[1m([0m[1m)[0m[1m)[0m
+    [36m           │                │        │                │                   │  │                 │  └ [0m[36m[1m<method 'now' of 'datetime.datetime' objects>[0m
+    [36m           │                │        │                │                   │  │                 └ [0m[36m[1m<class 'datetime.datetime'>[0m
+    [36m           │                │        │                │                   │  └ [0m[36m[1m<method 'now' of 'datetime.datetime' objects>[0m
+    [36m           │                │        │                │                   └ [0m[36m[1m<class 'datetime.datetime'>[0m
+    [36m           │                │        │                └ [0m[36m[1m'0'[0m
+    [36m           │                │        └ [0m[36m[1m'QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S UNFE:AC MUNI:1392 ZONA:...[0m
+    [36m           │                └ [0m[36m[1mBulletinQrCode(content='QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S ...[0m
+    [36m           └ [0m[36m[1m<class 'apuracao-bu-api.api.src.models.Bulletin'>[0m
+
+  File "<string>", line 4, in __init__
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/state.py", line 566, in _initialize_instance
+    manager.dispatch.init(self, args, kwargs)
+    │       │        │    │     │     └ {'content': 'QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S UNFE:AC MUN...
+    │       │        │    │     └ ()
+    │       │        │    └ <sqlalchemy.orm.state.InstanceState object at 0x7e14e02e0e90>
+    │       │        └ <member 'init' of 'InstanceEventsDispatch' objects>
+    │       └ <sqlalchemy.event.base.InstanceEventsDispatch object at 0x7e14e02c6990>
+    └ <ClassManager of <class 'apuracao-bu-api.api.src.models.Bulletin'> at 7e14e02d59f0>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/event/attr.py", line 497, in __call__
+    fn(*args, **kw)
+    │   │       └ {}
+    │   └ (<sqlalchemy.orm.state.InstanceState object at 0x7e14e02e0e90>, (), {'content': 'QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA OR...
+    └ <function _event_on_init at 0x7e14e1982660>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 4396, in _event_on_init
+    instrumenting_mapper._check_configure()
+    │                    └ <function Mapper._check_configure at 0x7e14e197a5c0>
+    └ <Mapper at 0x7e14e02aac90; Bulletin>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 2388, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+    │                      │    └ <sqlalchemy.orm.decl_api.registry object at 0x7e14e0417ce0>
+    │                      └ <Mapper at 0x7e14e02aac90; Bulletin>
+    └ <function _configure_registries at 0x7e14e19822a0>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 4204, in _configure_registries
+    _do_configure_registries(registries, cascade)
+    │                        │           └ True
+    │                        └ set()
+    └ <function _do_configure_registries at 0x7e14e19823e0>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 4245, in _do_configure_registries
+    mapper._post_configure_properties()
+    │      └ <function Mapper._post_configure_properties at 0x7e14e197a480>
+    └ <Mapper at 0x7e14e02a9ac0; Section>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 2405, in _post_configure_properties
+    prop.init()
+    │    └ <function MapperProperty.init at 0x7e14e1c520c0>
+    └ <_RelationshipDeclared at 0x7e14e02c4190; bulletins>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/interfaces.py", line 584, in init
+    self.do_init()
+    │    └ <function RelationshipProperty.do_init at 0x7e14e1974d60>
+    └ <_RelationshipDeclared at 0x7e14e02c4190; bulletins>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 1644, in do_init
+    self._setup_join_conditions()
+    │    └ <function RelationshipProperty._setup_join_conditions at 0x7e14e1974fe0>
+    └ <_RelationshipDeclared at 0x7e14e02c4190; bulletins>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 1884, in _setup_join_conditions
+    self._join_condition = jc = JoinCondition(
+    │                           └ <class 'sqlalchemy.orm.relationships.JoinCondition'>
+    └ <_RelationshipDeclared at 0x7e14e02c4190; bulletins>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 2310, in __init__
+    self._determine_joins()
+    │    └ <function JoinCondition._determine_joins at 0x7e14e1976020>
+    └ <sqlalchemy.orm.relationships.JoinCondition object at 0x7e14e035b470>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 2444, in _determine_joins
+    raise sa_exc.NoForeignKeysError(
+          │      └ <class 'sqlalchemy.exc.NoForeignKeysError'>
+          └ <module 'sqlalchemy.exc' from '/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/exc.py'>
+
+[31m[1msqlalchemy.exc.NoForeignKeysError[0m:[1m Could not determine join condition between parent/child tables on relationship Section.bulletins - there are no foreign keys linking these tables.  Ensure that referencing columns are associated with a ForeignKey or ForeignKeyConstraint, or specify a 'primaryjoin' expression.[0m
+2024-09-27 11:36:49 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:36:49 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:36:49 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:36:49 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:36:49 | INFO | >>> Initializing Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:36:59 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:36:59 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:36:59 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:36:59 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:36:59 | INFO | >>> Initializing Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:37:20 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:37:20 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:37:20 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:37:20 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:37:20 | INFO | >>> Initializing Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:37:26 | INFO | Logger initialized successfully | logger | api.src.logger | 
+2024-09-27 11:37:26 | INFO | Database engine established successfully. | database | api.src.database | 
+2024-09-27 11:37:26 | INFO | Database connection tested successfully. | database | api.src.database | 
+2024-09-27 11:37:31 | INFO | Logger initialized successfully | logger | api.src.logger | 
+2024-09-27 11:37:31 | INFO | Database engine established successfully. | database | api.src.database | 
+2024-09-27 11:37:31 | INFO | Database connection tested successfully. | database | api.src.database | 
+2024-09-27 11:37:33 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:37:33 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:37:33 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:37:34 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:37:34 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:37:34 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:37:34 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:37:34 | INFO | >>> Initializing Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:37:55 | ERROR | Bulletin QR code saving failed | application | apuracao-bu-api.api.src.handlers | 
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 2423, in _determine_joins
+    self.primaryjoin = join_condition(
+    │                  └ <function join_condition at 0x73fe25d12840>
+    └ <sqlalchemy.orm.relationships.JoinCondition object at 0x73fe241979e0>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/sql/util.py", line 123, in join_condition
+    return Join._join_condition(
+           │    └ <classmethod(<function Join._join_condition at 0x73fe25aef100>)>
+           └ <class 'sqlalchemy.sql.selectable.Join'>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/sql/selectable.py", line 1354, in _join_condition
+    raise exc.NoForeignKeysError(
+          │   └ <class 'sqlalchemy.exc.NoForeignKeysError'>
+          └ <module 'sqlalchemy.exc' from '/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/exc.py'>
+
+[31m[1msqlalchemy.exc.NoForeignKeysError[0m:[1m Can't find any foreign key relationships between 'sections' and 'bulletins'.[0m
+
+
+[1mThe above exception was the direct cause of the following exception:[0m
+
+
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/threading.py", line 1030, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x73fe288a67a0>
+    └ <WorkerThread(AnyIO worker thread, started 127535352383040)>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    self.run()
+    │    └ <function WorkerThread.run at 0x73fe23786d40>
+    └ <WorkerThread(AnyIO worker thread, started 127535352383040)>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 859, in run
+    result = context.run(func, *args)
+             │       │   │      └ ()
+             │       │   └ functools.partial(<function create_bulletin_qrcode at 0x73fe24122f20>, db_connector=<apuracao-bu-api.api.src.database.Databas...
+             │       └ <method 'run' of '_contextvars.Context' objects>
+             └ <_contextvars.Context object at 0x73fe2378dd40>
+
+  File "[32m/home/gabrielfmcoelho/projetos/bu/apuracao-bu-api/api/src/[0m[32m[1mroutes.py[0m", line [33m51[0m, in [35mcreate_bulletin_qrcode[0m
+    [1msave_bulletin_qr_code[0m[1m([0m[1mbulletin[0m[1m,[0m [1msection[0m[1m)[0m
+    [36m│                     │         └ [0m[36m[1m'0'[0m
+    [36m│                     └ [0m[36m[1mBulletinQrCode(content='QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S ...[0m
+    [36m└ [0m[36m[1m<function save_bulletin_qr_code at 0x73fe24121080>[0m
+
+> File "[32m/home/gabrielfmcoelho/projetos/bu/apuracao-bu-api/api/src/[0m[32m[1mhandlers.py[0m", line [33m16[0m, in [35msave_bulletin_qr_code[0m
+    [1mbulletin[0m [35m[1m=[0m [1mBulletin[0m[1m([0m[1mcontent[0m[35m[1m=[0m[1mbulletin[0m[35m[1m.[0m[1mcontent[0m[1m,[0m [1msection[0m[35m[1m=[0m[1msection[0m[1m,[0m [1mcreated_at[0m[35m[1m=[0m[1mdt[0m[35m[1m.[0m[1mnow[0m[1m([0m[1m)[0m[1m,[0m [1mupdated_at[0m[35m[1m=[0m[1mdt[0m[35m[1m.[0m[1mnow[0m[1m([0m[1m)[0m[1m)[0m
+    [36m           │                │        │                │                   │  │                 │  └ [0m[36m[1m<method 'now' of 'datetime.datetime' objects>[0m
+    [36m           │                │        │                │                   │  │                 └ [0m[36m[1m<class 'datetime.datetime'>[0m
+    [36m           │                │        │                │                   │  └ [0m[36m[1m<method 'now' of 'datetime.datetime' objects>[0m
+    [36m           │                │        │                │                   └ [0m[36m[1m<class 'datetime.datetime'>[0m
+    [36m           │                │        │                └ [0m[36m[1m'0'[0m
+    [36m           │                │        └ [0m[36m[1m'QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S UNFE:AC MUNI:1392 ZONA:...[0m
+    [36m           │                └ [0m[36m[1mBulletinQrCode(content='QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S ...[0m
+    [36m           └ [0m[36m[1m<class 'apuracao-bu-api.api.src.models.Bulletin'>[0m
+
+  File "<string>", line 4, in __init__
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/state.py", line 566, in _initialize_instance
+    manager.dispatch.init(self, args, kwargs)
+    │       │        │    │     │     └ {'content': 'QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S UNFE:AC MUN...
+    │       │        │    │     └ ()
+    │       │        │    └ <sqlalchemy.orm.state.InstanceState object at 0x73fe2372d1f0>
+    │       │        └ <member 'init' of 'InstanceEventsDispatch' objects>
+    │       └ <sqlalchemy.event.base.InstanceEventsDispatch object at 0x73fe237168f0>
+    └ <ClassManager of <class 'apuracao-bu-api.api.src.models.Bulletin'> at 73fe23725a40>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/event/attr.py", line 497, in __call__
+    fn(*args, **kw)
+    │   │       └ {}
+    │   └ (<sqlalchemy.orm.state.InstanceState object at 0x73fe2372d1f0>, (), {'content': 'QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA OR...
+    └ <function _event_on_init at 0x73fe25686660>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 4396, in _event_on_init
+    instrumenting_mapper._check_configure()
+    │                    └ <function Mapper._check_configure at 0x73fe256765c0>
+    └ <Mapper at 0x73fe24196e10; Bulletin>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 2388, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+    │                      │    └ <sqlalchemy.orm.decl_api.registry object at 0x73fe246d33e0>
+    │                      └ <Mapper at 0x73fe24196e10; Bulletin>
+    └ <function _configure_registries at 0x73fe256862a0>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 4204, in _configure_registries
+    _do_configure_registries(registries, cascade)
+    │                        │           └ True
+    │                        └ set()
+    └ <function _do_configure_registries at 0x73fe256863e0>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 4245, in _do_configure_registries
+    mapper._post_configure_properties()
+    │      └ <function Mapper._post_configure_properties at 0x73fe25676480>
+    └ <Mapper at 0x73fe24195b80; Section>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 2405, in _post_configure_properties
+    prop.init()
+    │    └ <function MapperProperty.init at 0x73fe2594e0c0>
+    └ <_RelationshipDeclared at 0x73fe23714190; bulletins>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/interfaces.py", line 584, in init
+    self.do_init()
+    │    └ <function RelationshipProperty.do_init at 0x73fe25670d60>
+    └ <_RelationshipDeclared at 0x73fe23714190; bulletins>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 1644, in do_init
+    self._setup_join_conditions()
+    │    └ <function RelationshipProperty._setup_join_conditions at 0x73fe25670fe0>
+    └ <_RelationshipDeclared at 0x73fe23714190; bulletins>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 1884, in _setup_join_conditions
+    self._join_condition = jc = JoinCondition(
+    │                           └ <class 'sqlalchemy.orm.relationships.JoinCondition'>
+    └ <_RelationshipDeclared at 0x73fe23714190; bulletins>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 2310, in __init__
+    self._determine_joins()
+    │    └ <function JoinCondition._determine_joins at 0x73fe25672020>
+    └ <sqlalchemy.orm.relationships.JoinCondition object at 0x73fe241979e0>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 2444, in _determine_joins
+    raise sa_exc.NoForeignKeysError(
+          │      └ <class 'sqlalchemy.exc.NoForeignKeysError'>
+          └ <module 'sqlalchemy.exc' from '/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/exc.py'>
+
+[31m[1msqlalchemy.exc.NoForeignKeysError[0m:[1m Could not determine join condition between parent/child tables on relationship Section.bulletins - there are no foreign keys linking these tables.  Ensure that referencing columns are associated with a ForeignKey or ForeignKeyConstraint, or specify a 'primaryjoin' expression.[0m
+2024-09-27 11:37:55 | ERROR | Bulletin QR code creation failed | application | apuracao-bu-api.api.src.routes | 
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 2423, in _determine_joins
+    self.primaryjoin = join_condition(
+    │                  └ <function join_condition at 0x73fe25d12840>
+    └ <sqlalchemy.orm.relationships.JoinCondition object at 0x73fe241979e0>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/sql/util.py", line 123, in join_condition
+    return Join._join_condition(
+           │    └ <classmethod(<function Join._join_condition at 0x73fe25aef100>)>
+           └ <class 'sqlalchemy.sql.selectable.Join'>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/sql/selectable.py", line 1354, in _join_condition
+    raise exc.NoForeignKeysError(
+          │   └ <class 'sqlalchemy.exc.NoForeignKeysError'>
+          └ <module 'sqlalchemy.exc' from '/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/exc.py'>
+
+[31m[1msqlalchemy.exc.NoForeignKeysError[0m:[1m Can't find any foreign key relationships between 'sections' and 'bulletins'.[0m
+
+
+[1mThe above exception was the direct cause of the following exception:[0m
+
+
+[33m[1mTraceback (most recent call last):[0m
+
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/threading.py", line 1030, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x73fe288a67a0>
+    └ <WorkerThread(AnyIO worker thread, started 127535352383040)>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    self.run()
+    │    └ <function WorkerThread.run at 0x73fe23786d40>
+    └ <WorkerThread(AnyIO worker thread, started 127535352383040)>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 859, in run
+    result = context.run(func, *args)
+             │       │   │      └ ()
+             │       │   └ functools.partial(<function create_bulletin_qrcode at 0x73fe24122f20>, db_connector=<apuracao-bu-api.api.src.database.Databas...
+             │       └ <method 'run' of '_contextvars.Context' objects>
+             └ <_contextvars.Context object at 0x73fe2378dd40>
+
+> File "[32m/home/gabrielfmcoelho/projetos/bu/apuracao-bu-api/api/src/[0m[32m[1mroutes.py[0m", line [33m51[0m, in [35mcreate_bulletin_qrcode[0m
+    [1msave_bulletin_qr_code[0m[1m([0m[1mbulletin[0m[1m,[0m [1msection[0m[1m)[0m
+    [36m│                     │         └ [0m[36m[1m'0'[0m
+    [36m│                     └ [0m[36m[1mBulletinQrCode(content='QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S ...[0m
+    [36m└ [0m[36m[1m<function save_bulletin_qr_code at 0x73fe24121080>[0m
+
+  File "[32m/home/gabrielfmcoelho/projetos/bu/apuracao-bu-api/api/src/[0m[32m[1mhandlers.py[0m", line [33m22[0m, in [35msave_bulletin_qr_code[0m
+    [35m[1mraise[0m [1me[0m
+
+  File "[32m/home/gabrielfmcoelho/projetos/bu/apuracao-bu-api/api/src/[0m[32m[1mhandlers.py[0m", line [33m16[0m, in [35msave_bulletin_qr_code[0m
+    [1mbulletin[0m [35m[1m=[0m [1mBulletin[0m[1m([0m[1mcontent[0m[35m[1m=[0m[1mbulletin[0m[35m[1m.[0m[1mcontent[0m[1m,[0m [1msection[0m[35m[1m=[0m[1msection[0m[1m,[0m [1mcreated_at[0m[35m[1m=[0m[1mdt[0m[35m[1m.[0m[1mnow[0m[1m([0m[1m)[0m[1m,[0m [1mupdated_at[0m[35m[1m=[0m[1mdt[0m[35m[1m.[0m[1mnow[0m[1m([0m[1m)[0m[1m)[0m
+    [36m           │                │        │                │                   │  │                 │  └ [0m[36m[1m<method 'now' of 'datetime.datetime' objects>[0m
+    [36m           │                │        │                │                   │  │                 └ [0m[36m[1m<class 'datetime.datetime'>[0m
+    [36m           │                │        │                │                   │  └ [0m[36m[1m<method 'now' of 'datetime.datetime' objects>[0m
+    [36m           │                │        │                │                   └ [0m[36m[1m<class 'datetime.datetime'>[0m
+    [36m           │                │        │                └ [0m[36m[1m'0'[0m
+    [36m           │                │        └ [0m[36m[1m'QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S UNFE:AC MUNI:1392 ZONA:...[0m
+    [36m           │                └ [0m[36m[1mBulletinQrCode(content='QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S ...[0m
+    [36m           └ [0m[36m[1m<class 'apuracao-bu-api.api.src.models.Bulletin'>[0m
+
+  File "<string>", line 4, in __init__
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/state.py", line 566, in _initialize_instance
+    manager.dispatch.init(self, args, kwargs)
+    │       │        │    │     │     └ {'content': 'QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA ORLC:LEG PROC:15000 DTPL:20181007 PLEI:15100 TURN:1 FASE:S UNFE:AC MUN...
+    │       │        │    │     └ ()
+    │       │        │    └ <sqlalchemy.orm.state.InstanceState object at 0x73fe2372d1f0>
+    │       │        └ <member 'init' of 'InstanceEventsDispatch' objects>
+    │       └ <sqlalchemy.event.base.InstanceEventsDispatch object at 0x73fe237168f0>
+    └ <ClassManager of <class 'apuracao-bu-api.api.src.models.Bulletin'> at 73fe23725a40>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/event/attr.py", line 497, in __call__
+    fn(*args, **kw)
+    │   │       └ {}
+    │   └ (<sqlalchemy.orm.state.InstanceState object at 0x73fe2372d1f0>, (), {'content': 'QRBU:1:1 VRQR:1.5 VRCH:20180618 ORIG:VOTA OR...
+    └ <function _event_on_init at 0x73fe25686660>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 4396, in _event_on_init
+    instrumenting_mapper._check_configure()
+    │                    └ <function Mapper._check_configure at 0x73fe256765c0>
+    └ <Mapper at 0x73fe24196e10; Bulletin>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 2388, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+    │                      │    └ <sqlalchemy.orm.decl_api.registry object at 0x73fe246d33e0>
+    │                      └ <Mapper at 0x73fe24196e10; Bulletin>
+    └ <function _configure_registries at 0x73fe256862a0>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 4204, in _configure_registries
+    _do_configure_registries(registries, cascade)
+    │                        │           └ True
+    │                        └ set()
+    └ <function _do_configure_registries at 0x73fe256863e0>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 4245, in _do_configure_registries
+    mapper._post_configure_properties()
+    │      └ <function Mapper._post_configure_properties at 0x73fe25676480>
+    └ <Mapper at 0x73fe24195b80; Section>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/mapper.py", line 2405, in _post_configure_properties
+    prop.init()
+    │    └ <function MapperProperty.init at 0x73fe2594e0c0>
+    └ <_RelationshipDeclared at 0x73fe23714190; bulletins>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/interfaces.py", line 584, in init
+    self.do_init()
+    │    └ <function RelationshipProperty.do_init at 0x73fe25670d60>
+    └ <_RelationshipDeclared at 0x73fe23714190; bulletins>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 1644, in do_init
+    self._setup_join_conditions()
+    │    └ <function RelationshipProperty._setup_join_conditions at 0x73fe25670fe0>
+    └ <_RelationshipDeclared at 0x73fe23714190; bulletins>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 1884, in _setup_join_conditions
+    self._join_condition = jc = JoinCondition(
+    │                           └ <class 'sqlalchemy.orm.relationships.JoinCondition'>
+    └ <_RelationshipDeclared at 0x73fe23714190; bulletins>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 2310, in __init__
+    self._determine_joins()
+    │    └ <function JoinCondition._determine_joins at 0x73fe25672020>
+    └ <sqlalchemy.orm.relationships.JoinCondition object at 0x73fe241979e0>
+  File "/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/orm/relationships.py", line 2444, in _determine_joins
+    raise sa_exc.NoForeignKeysError(
+          │      └ <class 'sqlalchemy.exc.NoForeignKeysError'>
+          └ <module 'sqlalchemy.exc' from '/home/gabrielfmcoelho/miniconda3/envs/fastapi/lib/python3.12/site-packages/sqlalchemy/exc.py'>
+
+[31m[1msqlalchemy.exc.NoForeignKeysError[0m:[1m Could not determine join condition between parent/child tables on relationship Section.bulletins - there are no foreign keys linking these tables.  Ensure that referencing columns are associated with a ForeignKey or ForeignKeyConstraint, or specify a 'primaryjoin' expression.[0m
+2024-09-27 11:38:35 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:38:35 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:38:35 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:38:35 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:38:35 | INFO | >>> Initializing Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:38:37 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:38:37 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:38:37 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:38:37 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:38:37 | INFO | >>> Initializing Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:38:59 | INFO | >>> Shutingdown Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:38:59 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:39:00 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:39:00 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:39:00 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:39:00 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:39:00 | INFO | >>> Initializing Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:39:04 | INFO | Logger initialized successfully | logger | api.src.logger | 
+2024-09-27 11:39:04 | INFO | Database engine established successfully. | database | api.src.database | 
+2024-09-27 11:39:04 | INFO | Database connection tested successfully. | database | api.src.database | 
+2024-09-27 11:39:06 | INFO | Logger initialized successfully | logger | api.src.logger | 
+2024-09-27 11:39:06 | INFO | Database engine established successfully. | database | api.src.database | 
+2024-09-27 11:39:06 | INFO | Database connection tested successfully. | database | api.src.database | 
+2024-09-27 11:39:10 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:39:10 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:39:10 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:39:11 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:39:11 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:39:11 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 11:39:11 | INFO | -------------------------------------------------- | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:39:11 | INFO | >>> Initializing Application <<< | lifespan | apuracao-bu-api.api.src.logger | 
+2024-09-27 11:39:17 | INFO | Bulletin QR code saved successfully. | application | apuracao-bu-api.api.src.handlers | 
+2024-09-27 11:40:34 | INFO | Bulletin QR code saved successfully. | application | apuracao-bu-api.api.src.handlers | 
+2024-09-27 12:14:51 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 12:14:51 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 12:14:51 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 12:17:15 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 12:17:15 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 12:17:15 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 12:18:32 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 12:18:32 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 12:18:32 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 12:18:51 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 12:18:51 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 12:18:51 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 12:19:29 | INFO | Logger initialized successfully | logger | apuracao-bu-api.api.src.logger | 
+2024-09-27 12:19:29 | INFO | Database engine established successfully. | database | apuracao-bu-api.api.src.database | 
+2024-09-27 12:19:29 | INFO | Database connection tested successfully. | database | apuracao-bu-api.api.src.database | 

@@ -1,0 +1,120 @@
+{
+    "type": "small",
+    "finished": true,
+    "last_carg": 11,
+    "last_party": null,
+    "header": {
+        "QRBU": [
+            1,
+            1
+        ],
+        "VRQR": "1.5",
+        "VRCH": "20240507"
+    },
+    "content": {
+        "metadata": {
+            "ORIG": "VOTA",
+            "ORLC": "LEG",
+            "PROC": 1000,
+            "DTPL": "2024-10-06",
+            "PLEI": 1100,
+            "TURN": 1,
+            "FASE": "S",
+            "UNFE": "AC",
+            "MUNI": 1120,
+            "ZONA": 8,
+            "SECA": 2,
+            "AGRE": [
+                3,
+                4
+            ],
+            "IDUE": 2031032,
+            "IDCA": 387626604953598569436326,
+            "HIQT": 1,
+            "HICA": "1",
+            "VERS": "9.20.0.0"
+        },
+        "details": {
+            "LOCA": 1,
+            "APTO": 144,
+            "APTS": 144,
+            "APTT": 0,
+            "COMP": 2,
+            "FALT": 142,
+            "HBBM": 0,
+            "HBBG": 0,
+            "HBSB": 2,
+            "DTAB": "2024-10-06",
+            "HRAB": "17:21:13",
+            "DTFC": "2024-10-06",
+            "HRFC": "17:23:00"
+        },
+        "voting": {
+            "IDEL": 1101,
+            "position": [
+                {
+                    "CARG": 13,
+                    "TIPO": 1,
+                    "VERC": 202405101700,
+                    "summary": {
+                        "APTA": 144,
+                        "APTS": 144,
+                        "APTT": 0,
+                        "CSEC": null,
+                        "NOMI": 1,
+                        "LEGC": 0,
+                        "BRAN": 1,
+                        "NULO": 0,
+                        "TOTC": 2
+                    },
+                    "party": [
+                        {
+                            "PART": 93,
+                            "LEGP": 0,
+                            "TOTP": 1,
+                            "candidates": {
+                                "93001": {
+                                    "code": "93001",
+                                    "votes": 1
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "CARG": 11,
+                    "TIPO": 0,
+                    "VERC": 202405101700,
+                    "summary": {
+                        "APTA": 144,
+                        "APTS": 144,
+                        "APTT": 0,
+                        "CSEC": null,
+                        "NOMI": 1,
+                        "LEGC": null,
+                        "BRAN": 0,
+                        "NULO": 1,
+                        "TOTC": 2
+                    },
+                    "party": [
+                        {
+                            "PART": null,
+                            "LEGP": null,
+                            "TOTP": null,
+                            "candidates": {
+                                "92": {
+                                    "code": "92",
+                                    "votes": 1
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "security": {
+            "HASH": "57D17C50037E7E4C624468438AE77BEA6562076A20CD454FE30EAD413F7D6174ADE59D0D97013BD8F9F50316D766D3670B57FBB7D396C08DD4C4D9250E7B05FC",
+            "ASSI": "B2FA068D49111BA3A61DA0DC44334F8EC41598C73DE90B8E22AA64DAB8C10AA083FD0737B47560B3C6C837D0F24044ABB18DD5A4D2BC66884DB57BFCFA40F906"
+        }
+    }
+}
